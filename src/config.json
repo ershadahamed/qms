@@ -1,0 +1,12 @@
+{
+    "version": "1",
+    "source": {
+        "name": "web"
+    },
+    "server": {
+        "url": "",
+        "port": "",
+        "token": "",
+        "key": ""
+    }
+}

@@ -1,0 +1,18 @@
+.image-q{
+    background-image: url('../images/queue.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 515px;
+}
+
+input{
+    border-bottom: 1px solid gray;
+    outline: none !important;
+    display: block;
+} 
+
+.b-t-1{
+    border-top: 1px solid gray;
+}
